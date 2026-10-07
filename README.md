@@ -146,7 +146,8 @@ PETER
 
 
 
- <img width="660" height="297" alt="Screenshot 2026-08-18 175331" src="https://github.com/user-attachments/assets/94a687ab-5855-4c0a-b0e4-e9fe93bcaa60" />
+<img width="604" height="412" alt="mooooo" src="https://github.com/user-attachments/assets/8c4c10ef-92a3-4d91-9fc4-e7d5817e37db" />
+
 
 
 
